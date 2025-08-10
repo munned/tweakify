@@ -42,7 +42,7 @@
 > Some mods might be incompatible with the mods that have been already added to Tweakify, so please, don't report bugs nor errors when using any other mod that it isn't on the original modpack. 
 - I could maybe handle some bugs caused by "foreign mods" if you are planning to run an SMP. 
 ### 🤓☝🏼 "Where do I request adding mods or report a bug?"
-> The Discord server will be created if the modpack hits 200 downloads. From then, i'll make an invite link in Modrinth. Thanks for your patience also.
+> There's a GitHub repository where you can report issues or suggest mods or new stuff. Check it out at [here](https://github.com/munned/tweakify/issues)
 </details>
 
 ---
